@@ -51,13 +51,13 @@
         "public/*"
       ],
       "#app": [
-        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.0.0/node_modules/nuxt/dist/app"
+        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.0.0_eslint@8.40.0_typescript@5.0.4/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.0.0/node_modules/nuxt/dist/app/*"
+        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.0.0_eslint@8.40.0_typescript@5.0.4/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.0.0/node_modules/nuxt/dist/app/compat/vue-demi"
+        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.0.0_eslint@8.40.0_typescript@5.0.4/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#imports": [
         ".nuxt/imports"

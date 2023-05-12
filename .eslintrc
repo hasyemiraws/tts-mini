@@ -21,7 +21,8 @@
     ]
   },
   "plugins": [
-    "@typescript-eslint"
+    "@typescript-eslint",
+    "vitest"
   ],
   "rules": {},
   "ignorePatterns": [
